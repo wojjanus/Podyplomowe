@@ -5,7 +5,7 @@ i dynamiczne typowanie, wraz z jego naturą interpretowania, czyni go idealnym j
 w wielu obszarach na większości platform. 
 
 
-$\hspace{8cm}$![Strzałka](https://raw.githubusercontent.com/wojjanus/Podyplomowe/master/arrow.png)
+$\hspace{6cm}$![Strzałka](https://raw.githubusercontent.com/wojjanus/Podyplomowe/master/arrow.png)
 
 
 A w składzie tekstu LaTeX to wygląda strzałek tak $\leadsto$ 😄 😏
