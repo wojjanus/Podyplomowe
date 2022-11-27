@@ -1,0 +1,1 @@
+print("Studia podyplomowe Python")
